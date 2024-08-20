@@ -1,0 +1,35 @@
+{
+  "app": {
+    "theme": "dark",
+    "colors": {
+      "Volcano": {
+        "first": "#ef892c",
+        "second": "#d84e4e",
+        "third": "#890b57"
+      },
+      "Greena": {
+        "first": "#a7df0a",
+        "second": "#76ba1b",
+        "third": "#4c9a2a"
+      },
+      "Strawberry": {
+        "first": "#f70848",
+        "second": "#f43265",
+        "third": "#f75f85"
+      },
+      "Ocean": {
+        "first": "#1795cc",
+        "second": "#0f79a7",
+        "third": "#1db5d0"
+      }
+    }
+  },
+  "models": {
+    "model1": "models/fake_news_detector.joblib"
+  },
+  "page": {
+     "layout":"wide",
+     "title":"Fake News Detector",
+     "sidebar":"collapsed"
+  }
+}
