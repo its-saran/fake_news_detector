@@ -2,6 +2,11 @@
 
 A simple Streamlit-based web application that predicts whether a piece of news is legitimate or fake. The model uses a pre-trained machine learning pipeline to make predictions based on user input.
 
+## Live Demo
+
+You can try out the live demo of the Fake News Detection App [here](https://fake-news-detector-v1.streamlit.app/).
+
+
 ## Features
 
 - **Text Input:** Users can input news text into the app.
